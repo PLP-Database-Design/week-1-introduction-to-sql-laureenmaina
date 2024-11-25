@@ -21,7 +21,9 @@
 
 1. State and Explain the components of a DBMS(Database Management System)
 
+
 2. What is a relational database? Give 4 examples.
+
 
 3. State and Explain three classifications of SQL?
 
