@@ -1,13 +1,18 @@
 # Answers
 ## Question 1
- A Database Management System (DBMS) is a software system that enables the creation, manipulation, and administration of databases.
 
 **Components of a DBMS**
-i. User Interface-The interface through which users interact with the DBMS eg CLI,APIs and GUI.
-ii. Database Engine-This is the core of the DBMS and is responsible for managing the database eg storing
-and retrieving data.
-iii. Storage Manager-This component is responsible for managing the physical storage of data eg allocating
-space for data files.
+1. Hardware
+Refers to the physical components of a computer system, such as the central processing unit (CPU), memory and input/output devices.
+
+2. Software
+Refers to the programs and operating systems that manage the hardware and provide services to users.
+
+3. Data
+Raw facts and figures that are stored and processed by the DBMS.
+
+4. Users
+Individuals who interact with the DBMS to perform tasks such as data entry, retrieval, and analysis
 
 ## Question 2
 
